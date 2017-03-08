@@ -1,5 +1,5 @@
 ## Welcome to GitHub Pages
-[여기를 누르면 새 페이지](first_page.html)
+[여기를 누르면 새 페이지](Laravel project를 AWS Elastic Load Balancer 에 launching 하기)
 You can use the [editor on GitHub](https://github.com/eukrasie/memoir/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
